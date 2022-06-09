@@ -1,1 +1,3 @@
-# ml_intro_overfitting_regularization
+# Assignment
+
+See [overfitting_regularization.ipynb](./overfitting_regularization.ipynb) notebook.
